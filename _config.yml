@@ -1,5 +1,4 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Melvin's Information Technology Blog
+description: Educational content and project showcases in information technology and security.
+show_downloads: false
 theme: jekyll-theme-hacker
