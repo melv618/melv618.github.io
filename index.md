@@ -14,6 +14,30 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+# Red Teaming Projects
+
+A showcase of my red teaming projects:
+
+## Project 1 Title
+Description of your first red teaming project.  
+[GitHub Repository Link](#)
+
+## Project 2 Title
+Description of your second red teaming project.  
+[GitHub Repository Link](#)
+
+# Information Technology Projects
+
+A showcase of my general information technology projects:
+
+## Project 1 Title
+Description of your first IT project.  
+[GitHub Repository Link](#)
+
+## Project 2 Title
+Description of your second IT project.  
+[GitHub Repository Link](#)
+
 ## Header 2
 
 > This is a blockquote following a header.
