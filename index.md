@@ -10,33 +10,26 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-# Red Teaming Projects
+## Red Teaming Projects
 
 A showcase of my red teaming projects:
 
-## Project 1 Title
-Description of your first red teaming project.  
-[GitHub Repository Link](#)
+### [Project 1 Title](redteam-projects/project1.md)
+Brief description of Project 1.
 
-## Project 2 Title
-Description of your second red teaming project.  
-[GitHub Repository Link](#)
+### [Project 2 Title](redteam-projects/project2.md)
+Brief description of Project 2.
 
-# Information Technology Projects
+## Information Technology Projects
 
 A showcase of my general information technology projects:
 
-## Project 1 Title
-Description of your first IT project.  
-[GitHub Repository Link](#)
+### [Project 1 Title](it-projects/project1.md)
+Brief description of IT Project 1.
 
-## Project 2 Title
-Description of your second IT project.  
-[GitHub Repository Link](#)
+### [Project 2 Title](it-projects/project2.md)
+Brief description of IT Project 2.
+
 
 ## Header 2
 
