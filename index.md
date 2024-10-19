@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 A showcase of my red teaming projects:
 
 ### ![Project 1 Image](link_to_image)  
-### [Project 1 Title](redteam-projects/project1.md)  
+### [Stealth Operations in a Hostile Server Environment](redteam-projects/project1.md)  
 Brief description of Project 1.
 
 ### ![Project 2 Image](link_to_image)  
