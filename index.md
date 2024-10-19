@@ -14,20 +14,24 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 A showcase of my red teaming projects:
 
-### [Project 1 Title](redteam-projects/project1.md)
+### ![Project 1 Image](link_to_image)  
+### [Project 1 Title](redteam-projects/project1.md)  
 Brief description of Project 1.
 
-### [Project 2 Title](redteam-projects/project2.md)
+### ![Project 2 Image](link_to_image)  
+### [Project 2 Title](redteam-projects/project2.md)  
 Brief description of Project 2.
 
 ## Information Technology Projects
 
 A showcase of my general information technology projects:
 
-### [Project 1 Title](it-projects/project1.md)
+### ![IT Project 1 Image](link_to_image)  
+### [Project 1 Title](it-projects/project1.md)  
 Brief description of IT Project 1.
 
-### [Project 2 Title](it-projects/project2.md)
+### ![IT Project 2 Image](link_to_image)  
+### [Project 2 Title](it-projects/project2.md)  
 Brief description of IT Project 2.
 
 
