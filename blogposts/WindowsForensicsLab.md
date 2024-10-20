@@ -36,5 +36,3 @@ _Create your own data/system to analyze using this investigation lab, starting w
 # Example code
 print("Hello, World!")
 ```
-
-[GitHub Repository Link](#)
