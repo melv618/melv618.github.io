@@ -10,6 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+# Blog Posts
+*   ### [Stealth Wireless Connectivity](blogposts/NetHardwareObfuscation.md)
+
+* * *
+
 ## Red Teaming Projects
 
 A showcase of my red teaming projects:
@@ -34,9 +39,6 @@ Brief description of IT Project 1.
 ### [Project 2 Title](it-projects/project2.md)  
 Brief description of IT Project 2.
 
-# Blog Posts
-*   ### [Stealth Wireless Connectivity](blogposts/NetHardwareObfuscation.md)  
-
 ## Header 2
 
 > This is a blockquote following a header.
@@ -59,12 +61,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
 ##### Header 5
 
