@@ -13,15 +13,18 @@ _Create your own data/system to analyze using this investigation lab, starting w
   - **Export the images** and import them to the forensic workstation.
 
 ## Technologies Used
-- Virtual Machines (VirtualBox)
+- **Virtual Machines**
+  - VirtualBox
   - Virtual Networking (Subnetting, DNS)
-- Windows
-  - Server 2019
+
+- **Operating Systems**
+  - Windows Server 2019
   - Ubuntu (WSL)
   - PowerShell
-- Forensic Tools
+
+- **Forensic Tools**
   - Volatility
-  - Log2TimeLine
+  - Log2Timeline
   - FTK Imager
   - KAPE
  
