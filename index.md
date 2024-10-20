@@ -35,7 +35,7 @@ Brief description of IT Project 1.
 Brief description of IT Project 2.
 
 # Blog Posts
-### [Stealth Wireless Connectivity](blogposts/NetHardwareObfuscation.md)  
+*   ### [Stealth Wireless Connectivity](blogposts/NetHardwareObfuscation.md)  
 
 ## Header 2
 
