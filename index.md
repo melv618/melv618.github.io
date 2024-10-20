@@ -41,8 +41,6 @@ A showcase of my general information technology projects:
 
 ## Header 2
 
-> This is a blockquote following a header.
->
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
@@ -61,22 +59,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
