@@ -27,7 +27,7 @@ Brief description of Project 2.
 A showcase of my general information technology projects:
 
 ### ![IT Project 1 Image](link_to_image)  
-### [Project 1 Title](it-projects/project1.md)  
+### [Implementing a Basic Home Lab Running Active Directory with User Implementation](it-projects/project1.md)  
 Brief description of IT Project 1.
 
 ### ![IT Project 2 Image](link_to_image)  
