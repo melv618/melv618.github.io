@@ -32,7 +32,7 @@ A showcase of my red teaming projects:
 A showcase of my general information technology projects:
 
 ### ![IT Project 1 Image](link_to_image)  
-### [Implementing a Basic Home Lab Running Active Directory with User Implementation](it-projects/project1.md)  
+### [Implementing a Basic Home Lab Running Active Directory with User Implementation](https://github.com/melv618/BasicADImplementation)  
 > Brief description of Project 1.
 
 ### ![IT Project 2 Image](link_to_image)  
