@@ -9,9 +9,9 @@ title: "Digital Forensics: Building a Windows Investigation Lab"
 The goal of this lab is to provide a hands-on environment for learning forensic techniques/tools, analyzing data, and understanding digital evidence handling in accordance with [NIST SP 800-86](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-86.pdf)
 .
 
-You can create your own data/system to analyze using this investigation lab starting with a simple “victim” VM and executing malware or simulating malicious user behavior.
-    - Create a memory and disk image of the "victim" system
-    - Export the images and import them to the forensic workstation
+- You can create your own data/system to analyze using this investigation lab starting with a simple “victim” VM and executing malware or simulating malicious user behavior.
+    * Create a memory and disk image of the "victim" system
+    * Export the images and import them to the forensic workstation
 
 ## Technologies Used
 - Virtual Machines (VirtualBox)
