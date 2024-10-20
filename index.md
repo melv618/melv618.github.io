@@ -12,6 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Blog Posts
 *   ### [Stealth Wireless Connectivity](blogposts/NetHardwareObfuscation.md)
+*   ### [Digital Forensics: Building a Windows Investigation Lab](blogposts/WindowsForensicsLab.md)
 
 * * *
 
