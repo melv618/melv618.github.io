@@ -11,7 +11,7 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Blog Posts
-*   ### [Stealth Wireless Network Connectivity](blogposts/NetHardwareObfuscation.md)
+*   ### [Stealth Network Connectivity for Devices](blogposts/NetHardwareObfuscation.md)
 *   ### [Digital Forensics: Building a Windows Investigation Lab](blogposts/WindowsForensicsLab.md)
 
 * * *
