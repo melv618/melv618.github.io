@@ -121,23 +121,12 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
+## Contact Me
 
-### Definition lists can be used with HTML syntax.
+<a href="mailto:melvin.estrada@tutamail.com">
+    <img src="https://www.freepnglogos.com/uploads/email-logo-png-30.png" alt="Email Icon" style="width: 35px; height: auto;">
+</a>
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-# Contact Me
-
-[Email Me](mailto:melvin.estrada@tutamail.com)
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
