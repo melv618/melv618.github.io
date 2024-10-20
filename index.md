@@ -21,11 +21,11 @@ A showcase of my red teaming projects:
 
 ### ![Project 1 Image](link_to_image)  
 ### [Stealth Operations in a Hostile Server Environment](redteam-projects/project1.md)  
-Brief description of Project 1.
+> Brief description of Project 1.
 
 ### ![Project 2 Image](link_to_image)  
 ### [Project 2 Title](redteam-projects/project2.md)  
-Brief description of Project 2.
+> Brief description of Project 2.
 
 ## Information Technology Projects
 
@@ -33,11 +33,11 @@ A showcase of my general information technology projects:
 
 ### ![IT Project 1 Image](link_to_image)  
 ### [Implementing a Basic Home Lab Running Active Directory with User Implementation](it-projects/project1.md)  
-Brief description of IT Project 1.
+> Brief description of Project 1.
 
 ### ![IT Project 2 Image](link_to_image)  
 ### [Project 2 Title](it-projects/project2.md)  
-Brief description of IT Project 2.
+> Brief description of Project 2.
 
 ## Header 2
 
