@@ -34,6 +34,8 @@ Brief description of IT Project 1.
 ### [Project 2 Title](it-projects/project2.md)  
 Brief description of IT Project 2.
 
+# Blog Posts
+### [Enter](path/path)  
 
 ## Header 2
 
