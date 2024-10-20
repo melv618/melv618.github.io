@@ -21,11 +21,11 @@ The goal of this lab is to provide a hands-on environment for learning forensic 
   - Ubuntu (WSL)
   - PowerShell
 - Forensic Tools
--   Volatility
--   Log2Timeline
--   FTK Imager
--   KAPE
-
+  - Volatility
+  - Log2TimeLine
+  - FTK Imager
+  - KAPE
+ 
 ## Screenshots
 ![Screenshot](url_to_screenshot)
 
