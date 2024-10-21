@@ -15,11 +15,9 @@ _Create your own data/system to analyze using this investigation lab, starting w
 ## Technologies Used
 - **Virtual Machines**
   - VirtualBox
-  - Virtual Networking (Subnetting, DNS)
 
 - **Operating Systems**
-  - Windows Server 2019
-    - PowerShell
+  - Windows Server 2019 VHD
   - Ubuntu (WSL)
  
 - **Forensic Tools**
@@ -29,7 +27,30 @@ _Create your own data/system to analyze using this investigation lab, starting w
   - KAPE
 
  * * *
- 
+## 1. Install Oracle VirtualBox
+- **Description**: Download and install Oracle VirtualBox on your machine.
+- **Extension Pack**: [Download here](https://www.virtualbox.org/)
+
+## 2. Download ISO Files
+- **Description**: Download the necessary ISO files.
+  - [Windows Server 2019 VHD](https://go.microsoft.com/fwlink/p/?linkid=2195334)
+
+## 3. Create Virtual Machine
+
+### Windows Guest VM Setup
+- **Description**: Set up the virtual machine using the Windows Server ISO file.
+- **Image**:  
+  ![Domain Controller VM](images/1.png)
+
+  > #### VM requirements:
+    100 GB disk – dynamically allocated.
+    4+ GB RAM
+    2 or more CPUs
+    NAT Networking Mode
+    install VirtualBox Guest Additions
+      - enable Drag & Drop, bi-directional clipboard, and folder sharing with the host in the VMs settings.Install Windows from the ISO.
+    When finished, shut down the system and create a snapshot.
+
 ## Screenshots
 ![Screenshot](url_to_screenshot)
 
