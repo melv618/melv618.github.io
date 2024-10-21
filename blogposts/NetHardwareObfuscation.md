@@ -9,3 +9,5 @@ A red teamer should learn how to connect stealthily to local networks to simulat
 *In this lab, I am using a Debian/debian-based operating system, but feel free to use any distribution that has NetworkManager and systemd.*
 
  * * *
+
+For demonstration purposes, my hostname will begin with 'unknowndevice' and with the following commands, we will attempt to blend in with the local network and avoid too much attention.
