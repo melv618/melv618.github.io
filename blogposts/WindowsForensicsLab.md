@@ -18,6 +18,7 @@ _Create your own data/system to analyze using this investigation lab, starting w
 
 - **Operating Systems**
   - Windows Server 2019 VHD
+    - PowerShell
   - Ubuntu (WSL)
  
 - **Forensic Tools**
@@ -51,6 +52,16 @@ _Create your own data/system to analyze using this investigation lab, starting w
   ![Screenshot](https://github.com/melv618/melv618.github.io/blob/main/blogposts/images/windowsforensicslab/Screenshot%20from%202024-10-21%2002-54-06.png?raw=true)
   ![Screenshot](https://github.com/melv618/melv618.github.io/blob/main/blogposts/images/windowsforensicslab/Screenshot%20from%202024-10-21%2002-54-13.png?raw=true)
   ![Screenshot](https://github.com/melv618/melv618.github.io/blob/main/blogposts/images/windowsforensicslab/Screenshot%20from%202024-10-21%2002-54-58.png?raw=true)
+  #### Install Windows Desktop Experience
+  ![image](https://github.com/user-attachments/assets/862ff522-6c76-448e-b6b8-2e415740dd61)
+  ![image](https://github.com/user-attachments/assets/a918d5a1-95e2-4e86-a5ac-6fc8b9f9e6d7)
+
+  > #### When finished, shut down the system and create a snapshot.
+  ![image](https://github.com/user-attachments/assets/40f7340f-e534-4e78-a7be-e057d1bfc897)
+
+### Enable Windows Subsystem for Linux (WSL) and Install Ubuntu
+  
+
 
 ## Code Snippet
 ```python
