@@ -10,4 +10,10 @@ A red teamer should learn how to connect stealthily to local networks to simulat
 
  * * *
 
-For demonstration purposes, my hostname will begin with 'unknowndevice' and with the following commands, we will attempt to blend in with the local network and avoid too much attention.
+For demonstration purposes, my hostname will begin with 'kali' and with the following commands, we will attempt to blend in with the local network and avoid too much attention.
+
+![image](https://github.com/user-attachments/assets/6b9ef794-676d-410c-b0ea-fe232b3a92ee)
+
+**Current MAC Address:**
+
+![image](https://github.com/user-attachments/assets/815b6fd1-bb5c-494b-aea7-6b0bd765c6a4)
