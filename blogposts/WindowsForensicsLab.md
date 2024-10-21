@@ -127,4 +127,7 @@ pip3 install oletools
 
 # Once the setup is complete take a snapshot! This is your dedicated lab for any of your forensic investigations!
 
-[GitHub Repository Link](https://github.com/melv618/melv618.github.io/blob/main/blogposts/WindowsForensicsLab.md)
+## Resources
+  - [NIST SP 800-86](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-86.pdf)
+  - [Blue Cape Security](https://bluecapesecurity.com/)
+  - [GitHub Repository Link](https://github.com/melv618/melv618.github.io/blob/main/blogposts/WindowsForensicsLab.md)
