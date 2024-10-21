@@ -7,3 +7,5 @@ A red teamer should learn how to connect stealthily to local networks to simulat
   - **Linux**
     
 *In this lab, I am using a Debian/debian-based operating system, but feel free to use any distribution that has NetworkManager and systemd.*
+
+ * * *
