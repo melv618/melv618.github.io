@@ -33,12 +33,13 @@ _Create your own data/system to analyze using this investigation lab, starting w
 
 ## 2. Download ISO Files
 - **Description**: Download the necessary ISO files.
-  - [Windows Server 2019 VHD](https://go.microsoft.com/fwlink/p/?linkid=2195334)
+  - [Windows Server 2019](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
 
 ## 3. Create Virtual Machine
 
 ### Windows Guest VM Setup
 - **Description**: Set up the virtual machine using the Windows Server ISO file.
+
 ### VM requirements:
     - 100 GB disk – dynamically allocated.
     - 4+ GB RAM
@@ -47,10 +48,9 @@ _Create your own data/system to analyze using this investigation lab, starting w
     - Install VirtualBox Guest Additions
       - enable Drag & Drop, bi-directional clipboard, and folder sharing with the host in the VMs settings.
     - When finished, shut down the system and create a snapshot.
-- **Images**:
-
-## Screenshots
-![Screenshot](png)
+  ![Screenshot](https://github.com/melv618/melv618.github.io/blob/main/blogposts/images/windowsforensicslab/Screenshot%20from%202024-10-21%2002-54-06.png?raw=true)
+  ![Screenshot](https://github.com/melv618/melv618.github.io/blob/main/blogposts/images/windowsforensicslab/Screenshot%20from%202024-10-21%2002-54-13.png?raw=true)
+  ![Screenshot](https://github.com/melv618/melv618.github.io/blob/main/blogposts/images/windowsforensicslab/Screenshot%20from%202024-10-21%2002-54-58.png?raw=true)
 
 ## Code Snippet
 ```python
