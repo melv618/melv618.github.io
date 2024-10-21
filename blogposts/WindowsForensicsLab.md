@@ -39,7 +39,7 @@ _Create your own data/system to analyze using this investigation lab, starting w
 
 ### Windows Guest VM Setup
 - **Description**: Set up the virtual machine using the Windows Server ISO file.
-  > #### VM requirements:
+#### VM requirements:
     - 100 GB disk – dynamically allocated.
     - 4+ GB RAM
     - 2 or more CPUs
@@ -47,11 +47,12 @@ _Create your own data/system to analyze using this investigation lab, starting w
     - Install VirtualBox Guest Additions
       - enable Drag & Drop, bi-directional clipboard, and folder sharing with the host in the VMs settings.
     - When finished, shut down the system and create a snapshot.
-- **Image**:  
-  ![Domain Controller VM](images/1.png)
+- **Images**:  
+  ![Setup VM](blogposts/images/windowsforensicslab/Screenshot from 2024-10-21 02-54-06.png)
+
 
 ## Screenshots
-![Screenshot](url_to_screenshot)
+![Screenshot](png)
 
 ## Code Snippet
 ```python
