@@ -77,7 +77,7 @@ rm tmp$rnd
 chmod +x set-random-hostname.sh
 ```
 
-#### Set the script to execute every time you connect to a new network
+### Set the script to execute every time you connect to a new network
 ```bash
 sudo nano /etc/NetworkManager/dispatcher.d/99-set-hostname
 ```
