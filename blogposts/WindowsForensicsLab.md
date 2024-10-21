@@ -115,11 +115,11 @@ sudo apt-get install plaso-tools
 pip3 install oletools
 ```
 ### Windows-based tools
-[Visual Studio Code](https://code.visualstudio.com/download)
-[7-Zip](https://www.7-zip.org/download.html)
-[FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-5)
-[KAPE - Kroll Artifact Parser and Extractor](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape)
 > Install to "C:\Tools" folder
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [7-Zip](https://www.7-zip.org/download.html)
+- [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-5)
+- [KAPE - Kroll Artifact Parser and Extractor](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape)
 
 ## Your final desktop setup may look similar to the screenshot below
 ![image](https://github.com/user-attachments/assets/e363e1a1-77b7-490a-a4f5-672c5523a522)
