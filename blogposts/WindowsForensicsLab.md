@@ -79,7 +79,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
   ```
  ![Screenshot from 2024-10-21 03-35-35](https://github.com/user-attachments/assets/e2b77f4f-89ee-4d82-8d03-347f9790208f)
 
-  Reboot the system
+  **Reboot the system**
   
   Open “Ubuntu” in your Start Menu and set up a user account when asked.
   ![image](https://github.com/user-attachments/assets/95c079a1-3873-4272-9710-4ea7b4c90ee1)
@@ -125,10 +125,4 @@ pip3 install oletools
 ![image](https://github.com/user-attachments/assets/e363e1a1-77b7-490a-a4f5-672c5523a522)
 
 
-# Once the setup is complete take a snapshot! This is your dedicated lab for any new forensic investigation.
-
-## Code Snippet
-```python
-# Example code
-print("Hello, World!")
-```
+# Once the setup is complete take a snapshot! This is your dedicated lab for any of your forensic investigations!
