@@ -19,9 +19,9 @@ _Create your own data/system to analyze using this investigation lab, starting w
 
 - **Operating Systems**
   - Windows Server 2019
+    - PowerShell
   - Ubuntu (WSL)
-  - PowerShell
-
+ 
 - **Forensic Tools**
   - Volatility
   - Log2Timeline
