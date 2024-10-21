@@ -32,9 +32,8 @@ A showcase of my red teaming projects:
 
 A showcase of my general information technology projects:
 
-### ![IT Project 1 Image](link_to_image)  
+### <img src="https://github.com/user-attachments/assets/f6d5d663-389e-4fe0-bc86-f196965c2b68" alt="image" width="300" />
 ### [Implementing a Basic Home Lab Running Active Directory with User Implementation](https://github.com/melv618/BasicADImplementation)  
-> Brief description of Project 1.
 
 ### ![IT Project 2 Image](link_to_image)  
 ### [Project 2 Title](it-projects/project2.md)  
