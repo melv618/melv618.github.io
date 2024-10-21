@@ -39,7 +39,7 @@ _Create your own data/system to analyze using this investigation lab, starting w
 
 ### Windows Guest VM Setup
 - **Description**: Set up the virtual machine using the Windows Server ISO file.
-#### VM requirements:
+### VM requirements:
     - 100 GB disk – dynamically allocated.
     - 4+ GB RAM
     - 2 or more CPUs
