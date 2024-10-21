@@ -47,9 +47,7 @@ _Create your own data/system to analyze using this investigation lab, starting w
     - Install VirtualBox Guest Additions
       - enable Drag & Drop, bi-directional clipboard, and folder sharing with the host in the VMs settings.
     - When finished, shut down the system and create a snapshot.
-- **Images**:  
-  ![Setup VM](blogposts/images/windowsforensicslab/Screenshot from 2024-10-21 02-54-06.png)
-
+- **Images**:
 
 ## Screenshots
 ![Screenshot](png)
