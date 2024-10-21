@@ -126,3 +126,5 @@ pip3 install oletools
 
 
 # Once the setup is complete take a snapshot! This is your dedicated lab for any of your forensic investigations!
+
+[GitHub Repository Link](https://github.com/melv618/melv618.github.io/blob/main/blogposts/WindowsForensicsLab.md)
