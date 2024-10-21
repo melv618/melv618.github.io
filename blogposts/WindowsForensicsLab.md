@@ -83,8 +83,50 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
   
   Open “Ubuntu” in your Start Menu and set up a user account when asked.
   ![image](https://github.com/user-attachments/assets/95c079a1-3873-4272-9710-4ea7b4c90ee1)
+  ![image](https://github.com/user-attachments/assets/6ca44890-1ebc-403c-ae6f-ca1d0946a18a)
 
-  
+### Configure the Windows Environment
+#### *The following settings are digital forensics best-practices that should be considered when setting up a forensic lab*
+    - Set the time zone to UTC – important! 
+      - Ensures a standard time zone is being used across all tools. It also helps to correlate events that possibly happened across different time zones or where the origin is not clear. 
+    - Configure Windows Explorer to show hidden files.
+    - Create a “C:\Cases” and a “C:\Tools” folder for evidence data and tools respectively.
+    - Configure Microsoft Defender to avoid interference with evidence or tools. 
+      - Open Virus & threat protection settings.
+        - Disable Defender’s “Real-time protection” when needed for a temporary period of time. If you want to permanently turn off real-time protection you need to disable it via GPO.
+        - Disable “Cloud-delivered protection” and “Automatic sample submission”, which only needs to be done once.
+        - Exclude your working directories e.g. “C:\Cases” and “C:\Tools” from Defender’s virus and threat protection scanning.
+    - When finished, shut down the system and create a snapshot.
+
+## 5. Download and Install Common Forensics Tools (Linux-based forensic tools)
+
+### Linux-based forensic tools
+  Open your Ubuntu Linux subsystem
+```
+sudo apt update
+```
+  ![image](https://github.com/user-attachments/assets/8c8f5623-d44a-4bff-bb85-50120cf6ae36)
+```
+sudo apt install python3-pip
+pip3 install volatility3
+pip3 install capstone
+sudo add-apt-repository ppa:gift/stable
+sudo apt-get install plaso-tools
+pip3 install oletools
+```
+### Windows-based tools
+[Visual Studio Code](https://code.visualstudio.com/download)
+[7-Zip](https://www.7-zip.org/download.html)
+[FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-5)
+[KAPE - Kroll Artifact Parser and Extractor](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape)
+> Install to "C:\Tools" folder
+
+## Your final desktop setup may look similar to the screenshot below
+![image](https://github.com/user-attachments/assets/e363e1a1-77b7-490a-a4f5-672c5523a522)
+
+
+# Once the setup is complete take a snapshot! This is your dedicated lab for any new forensic investigation.
+
 ## Code Snippet
 ```python
 # Example code
