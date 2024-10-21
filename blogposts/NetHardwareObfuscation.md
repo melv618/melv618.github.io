@@ -2,6 +2,7 @@
 
 ## Description
 A red teamer should learn how to connect stealthily to local networks to simulate a real-world attack effectively. By protecting your hardware identity and avoiding profiling, you can bypass some blue team defenses, making your testing more realistic.
+We are also automating this process for any new network session.
 
 - **Operating System**
   - **Linux**
@@ -40,7 +41,7 @@ systemctl restart NetworkManager
 ```
 
 ## 2. Create Hostname Generator Shell Script
-This following script we will create, will generate a new hostname based on the DESKTOP-XXXXXXX template observed on windows systems today. This will allow us blend in more with local networks as Windows is a very common operating systems across most desktops and laptops today.
+The following script we will create, will generate a new hostname based on the DESKTOP-XXXXXXX template observed on Windows systems today. This will allow us blend in more with local networks as Windows is a very common operating systems across most desktops and laptops today.
 
 ### Travel to the system-wide scripts directory:
 ```bash
@@ -52,16 +53,19 @@ This directory is typically included in the system's PATH, so you can run the sc
 ```
 nano set-random-hostname.sh
 ```
+
+![image](https://github.com/user-attachments/assets/7e8782d4-ced7-49fb-8e19-8986e9bce709)
+
 ### Add the following contents
 ```bash
 #!/bin/bash
 # Become root
 [ "$UID" -eq 0 ] || exec sudo "$0" $@
 
-# Generate random hostname in Windows format
-rnd=$(cat /dev/urandom | tr -dc '[:alpha:]' | fold -w ${1:-7} | head -n 1)
+# Generate random hostname in Windows format with 7 characters (letters and digits)
+rnd=$(cat /dev/urandom | tr -dc '[:upper:][:digit:]' | fold -w 7 | head -n 1)
 
-# hostnamectl
+# Set the hostname
 hostnamectl set-hostname "DESKTOP-$rnd"
 
 # Overwrite hostname file
@@ -70,7 +74,9 @@ sed '/^127.0.1.1/d' < /etc/hosts > tmp$rnd
 echo "127.0.0.1        DESKTOP-$rnd" >> tmp$rnd
 cat tmp$rnd > /etc/hosts
 rm tmp$rnd
+
 ```
+![image](https://github.com/user-attachments/assets/b9e8472d-dd12-45be-98ed-7dcc566789fa)
 
 #### Make the Script Executable
 ```bash
@@ -102,3 +108,20 @@ sudo chmod +x /etc/NetworkManager/dispatcher.d/99-set-hostname
 ```
 ***
 ## Test your setup  
+
+### Reboot your sytem
+#### Connect to a network.
+
+### Check your hostname
+```bash
+hostname
+```
+![image](https://github.com/user-attachments/assets/bc89346d-31c3-4492-8068-70b79d0a5aa5)
+
+### New MAC Address:
+```bash
+ip link show | grep ether | awk '{print $2}'
+```
+![image](https://github.com/user-attachments/assets/1ecc4725-dc29-46d2-b701-ef69b366588d)
+
+# Thank you for following along!
