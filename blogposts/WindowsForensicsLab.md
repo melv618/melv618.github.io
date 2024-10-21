@@ -60,9 +60,31 @@ _Create your own data/system to analyze using this investigation lab, starting w
   ![image](https://github.com/user-attachments/assets/40f7340f-e534-4e78-a7be-e057d1bfc897)
 
 ## 4. Enable Windows Subsystem for Linux (WSL) and Install Ubuntu
+
+### Open PowerShell as Administrator and run the following command:
+```
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+```
+![Screenshot from 2024-10-21 03-21-17](https://github.com/user-attachments/assets/a50aeb40-04a9-4a1e-842a-ef87e92fa12a)
+![image](https://github.com/user-attachments/assets/85ec60b5-cffc-4d70-809b-f938bdad2218)
+
+### Download Ubuntu 24.04 [here](https://wslstorestorage.blob.core.windows.net/wslblob/Ubuntu2404-240425.AppxBundle)
+  > Rename the package from .AppxBundle to .zip and extract the archive
+  ![image](https://github.com/user-attachments/assets/6969678d-0e40-42c6-a61c-2114fbc7a58e) 
+  ![image](https://github.com/user-attachments/assets/230af256-097b-453d-8dd2-dc010c4eb12b)
+
+  Install the x64.appx package contained within the archive using the following PowerShell command (as administrator!):
+  ```
+  Add-AppxPackage .\Ubuntu_2404.0.5.0_x64.appx
+  ```
+ ![Screenshot from 2024-10-21 03-35-35](https://github.com/user-attachments/assets/e2b77f4f-89ee-4d82-8d03-347f9790208f)
+
+  Reboot the system
   
+  Open “Ubuntu” in your Start Menu and set up a user account when asked.
+  ![image](https://github.com/user-attachments/assets/95c079a1-3873-4272-9710-4ea7b4c90ee1)
 
-
+  
 ## Code Snippet
 ```python
 # Example code
