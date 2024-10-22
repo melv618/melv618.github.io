@@ -68,7 +68,9 @@ A showcase of my general information technology projects:
 
 ### [Project 2 Title](it-projects/project2.md)  
 > Brief description of Project 2.
-> ### ![Project 2 Image](link_to_image)  
+> ### ![Project 2 Image](link_to_image)
+
+* * *
 
 ## CTF / Hacking Challenges
 ### 🚧 Under Construction 🚧
