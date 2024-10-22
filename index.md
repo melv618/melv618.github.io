@@ -76,6 +76,8 @@ A showcase of my general information technology projects:
 ### 🚧 Under Construction 🚧
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+<img src="https://freepngimg.com/save/36734-pink-heart-transparent-background/600x557" alt="Heart" width="70" height="70">
+
 > "Your only limitations are in your imagination."
 
 ## Contact Me
