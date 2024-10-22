@@ -71,9 +71,12 @@ A showcase of my general information technology projects:
 ### [Project 2 Title](it-projects/project2.md)  
 > Brief description of Project 2.
 
+## CTF / Hacking Challenges
+
 ## Header 2
 
 > When something is important enough, you do it even if the odds are not in your favor.
+
 
 ### Header 3
 
