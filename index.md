@@ -11,10 +11,50 @@ layout: default
 ## Red Teaming Projects
 
 A showcase of my red teaming projects:
+```
+Topology Diagram
+   +---------------------+
+   |    Red Team Server  |
+   |   (Wordlist & SSH)  |
+   |                     |
+   |  +---------------+  |
+   |  |  wordlist.txt |  |
+   |  +---------------+  |
+   |         |           |
+   |         |           |
+   |  +----------------+ |
+   | |extracted_flag.txt |
+   |  +----------------+ |
+   +---------------------+
+             ^
+             |
+             |
+             |
+   +---------------------+
+   | Victim  SSH Server  |
+   |                     |
+   |   +--------------+  |       +-----------------------+
+   |   |  flag.txt   |   | ---- | Blue Team Investigators |
+   |   +--------------+  |      | (Who we are hiding from)|
+   |                     |      |                         |
+   +---------------------+       +-----------------------+
+             ^  
+             |
+             |
+             |
+   +---------------------+
+   |   Red Teamer's PC   |
+   |                     |
+   |   (SSH Client)     |
+   |                     |
+   |   +--------------+  |
+   |   |  Commands    |  |
+   |   +--------------+  |
+   +---------------------+
+```
 
-### ![Project 1 Image](link_to_image)  
 ### [Stealth Operations in a Hostile Server Environment](redteam-projects/project1.md)  
-> Brief description of Project 1.
+> This scenario stimulates an enviroment where a red teamer SSHs into a hostile server and needs to achieve an objective while ensuring all actions are carried out without leaving traces or logs.
 
 ### ![Project 2 Image](link_to_image)  
 ### [Project 2 Title](redteam-projects/project2.md)  
