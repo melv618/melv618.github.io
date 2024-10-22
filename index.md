@@ -11,6 +11,8 @@ layout: default
 ## Red Teaming Projects
 
 A showcase of my red teaming projects:
+### [Stealth Operations in a Hostile Server Environment](redteam-projects/project1.md)  
+> This scenario stimulates an enviroment where a red teamer SSHs into a hostile server and needs to achieve an objective while ensuring all actions are carried out without leaving traces or logs.
 ```
 Topology Diagram
    +---------------------+
@@ -52,9 +54,6 @@ Topology Diagram
    |   +--------------+  |
    +---------------------+
 ```
-
-### [Stealth Operations in a Hostile Server Environment](redteam-projects/project1.md)  
-> This scenario stimulates an enviroment where a red teamer SSHs into a hostile server and needs to achieve an objective while ensuring all actions are carried out without leaving traces or logs.
 
 ### ![Project 2 Image](link_to_image)  
 ### [Project 2 Title](redteam-projects/project2.md)  
