@@ -73,7 +73,7 @@ A showcase of my general information technology projects:
 ## CTF / Hacking Challenges
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-> "Your limitations are only in your imagination."
+> "Your only limitations are in your imagination."
 
 ## Contact Me
 
