@@ -55,20 +55,20 @@ Topology Diagram
    +---------------------+
 ```
 
-### ![Project 2 Image](link_to_image)  
 ### [Project 2 Title](redteam-projects/project2.md)  
 > Brief description of Project 2.
+> ### ![Project 2 Image](link_to_image)  
 
 ## Information Technology Projects
 
 A showcase of my general information technology projects:
 
-### <img src="https://github.com/user-attachments/assets/f6d5d663-389e-4fe0-bc86-f196965c2b68" alt="image" width="300" />
 ### [Implementing a Basic Home Lab Running Active Directory with User Implementation](https://github.com/melv618/BasicADImplementation)  
+> ### <img src="https://github.com/user-attachments/assets/f6d5d663-389e-4fe0-bc86-f196965c2b68" alt="image" width="300" />
 
-### ![IT Project 2 Image](link_to_image)  
 ### [Project 2 Title](it-projects/project2.md)  
 > Brief description of Project 2.
+> ### ![Project 2 Image](link_to_image)  
 
 ## CTF / Hacking Challenges
 
