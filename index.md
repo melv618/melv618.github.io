@@ -83,7 +83,3 @@ A showcase of my general information technology projects:
 <a href="mailto:melvin.estrada@tutamail.com">
     <img src="https://www.freepnglogos.com/uploads/email-logo-png-30.png" alt="Email Icon" style="width: 35px; height: auto;">
 </a>
-
-```
-The final element.
-```
