@@ -75,8 +75,7 @@ A showcase of my general information technology projects:
 ## CTF / Hacking Challenges
 ### 🚧 Under Construction 🚧
 
-<img src="https://github.com/user-attachments/assets/cf5fa6cd-2711-47ed-b92a-1f21d0d6323a" alt="Heart" width="70" height="70">
-<img src="https://freepngimg.com/save/36734-pink-heart-transparent-background/600x557" alt="Heart" width="70" height="70">
+<img src="https://github.com/user-attachments/assets/cf5fa6cd-2711-47ed-b92a-1f21d0d6323a" alt="Heart" width="70" height="70"> <img src="https://freepngimg.com/save/36734-pink-heart-transparent-background/600x557" alt="Heart" width="70" height="70">
 
 > "Your only limitations are in your imagination."
 
