@@ -72,25 +72,14 @@ A showcase of my general information technology projects:
 
 ## CTF / Hacking Challenges
 
-> "Your limitations are only in your imagination."
-
-### Header 3
-
-### Small image
-
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
+> "Your limitations are only in your imagination."
 
 ## Contact Me
 
 <a href="mailto:melvin.estrada@tutamail.com">
     <img src="https://www.freepnglogos.com/uploads/email-logo-png-30.png" alt="Email Icon" style="width: 35px; height: auto;">
 </a>
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
 ```
 The final element.
