@@ -72,7 +72,7 @@ A showcase of my general information technology projects:
 
 ## CTF / Hacking Challenges
 
-> When something is important enough, you do it even if the odds are not in your favor.
+> "Your limitations are only in your imagination."
 
 ### Header 3
 
