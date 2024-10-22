@@ -75,6 +75,8 @@ A showcase of my general information technology projects:
 ## CTF / Hacking Challenges
 ### 🚧 Under Construction 🚧
 
+* * *
+
 ## Contact Me
 
 <a href="mailto:melvin.estrada@tutamail.com">
