@@ -4,7 +4,7 @@ layout: default
 
 # Blog Posts
 *   ### [Stealth Local Network Connectivity for Devices](blogposts/NetHardwareObfuscation.md)
-*   ### [Digital Forensics: Building a Windows Investigation Lab](blogposts/WindowsForensicsLab.md)
+*   ### [Digital Forensics: Building a Windows Workstation Lab](blogposts/WindowsForensicsLab.md)
 
 * * *
 
