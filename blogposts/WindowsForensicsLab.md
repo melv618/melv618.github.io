@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Digital Forensics: Building a Windows Investigation Lab"
+title: "Digital Forensics: Building a Windows Workstation Lab"
 ---
 
-# Building a Windows Investigation Lab
+# Building a Windows Workstation Lab
 
 ## Description
 The goal of this lab is to provide a hands-on environment for learning forensic techniques/tools, analyzing data, and understanding digital evidence handling in accordance with [NIST SP 800-86](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-86.pdf).
