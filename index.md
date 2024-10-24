@@ -10,14 +10,14 @@ layout: default
 
 ## Red Teaming Projects
 
-### A showcase of my red teaming projects:
-#### [Stealth Operations in a Hostile Server Environment](redteam-projects/StealthOps1.md)  
+A showcase of my red teaming projects:
+### [Stealth Operations in a Hostile Server Environment](redteam-projects/StealthOps1.md)  
 > This scenario stimulates an enviroment where a red teamer SSHs into a hostile server and needs to achieve an objective while ensuring all actions are carried out without leaving traces or logs.
 
 ## Information Technology Projects
 
-### A showcase of my general information technology projects:
-#### [Implementing a Basic Home Lab Running Active Directory with User Implementation](https://github.com/melv618/BasicADImplementation)  
+A showcase of my general information technology projects:
+### [Implementing a Basic Home Lab Running Active Directory with User Implementation](https://github.com/melv618/BasicADImplementation)  
 
 * * *
 
