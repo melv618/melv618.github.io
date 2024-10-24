@@ -13,51 +13,6 @@ layout: default
 A showcase of my red teaming projects:
 ### [Stealth Operations in a Hostile Server Environment](redteam-projects/StealthOps1.md)  
 > This scenario stimulates an enviroment where a red teamer SSHs into a hostile server and needs to achieve an objective while ensuring all actions are carried out without leaving traces or logs.
-```
-Topology Diagram
-   +---------------------+
-   |    Red Team Server  |
-   |   (Wordlist & SSH)  |
-   |                     |
-   |  +---------------+  |
-   |  |  wordlist.txt |  |
-   |  +---------------+  |
-   |         |           |
-   |         |           |
-   |  +----------------+ |
-   | |extracted_flag.txt |
-   |  +----------------+ |
-   +---------------------+
-             ^
-             |
-             |
-             |
-   +---------------------+
-   | Victim  SSH Server  |
-   |                     |
-   |   +--------------+  |       +-----------------------+
-   |   |  flag.txt   |   | ---- | Blue Team Investigators |
-   |   +--------------+  |      | (Who we are hiding from)|
-   |                     |      |                         |
-   +---------------------+       +-----------------------+
-             ^  
-             |
-             |
-             |
-   +---------------------+
-   |   Red Teamer's PC   |
-   |                     |
-   |   (SSH Client)     |
-   |                     |
-   |   +--------------+  |
-   |   |  Commands    |  |
-   |   +--------------+  |
-   +---------------------+
-```
-
-### [Project 2 Title](redteam-projects/project2.md)  
-> Brief description of Project 2.
-> ### ![Project 2 Image](link_to_image)  
 
 ## Information Technology Projects
 
@@ -65,10 +20,6 @@ A showcase of my general information technology projects:
 
 ### [Implementing a Basic Home Lab Running Active Directory with User Implementation](https://github.com/melv618/BasicADImplementation)  
 > ### <img src="https://github.com/user-attachments/assets/f6d5d663-389e-4fe0-bc86-f196965c2b68" alt="image" width="300" />
-
-### [Project 2 Title](it-projects/project2.md)  
-> Brief description of Project 2.
-> ### ![Project 2 Image](link_to_image)
 
 * * *
 
