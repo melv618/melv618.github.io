@@ -19,7 +19,6 @@ A showcase of my red teaming projects:
 A showcase of my general information technology projects:
 
 ### [Implementing a Basic Home Lab Running Active Directory with User Implementation](https://github.com/melv618/BasicADImplementation)  
-> ### <img src="https://github.com/user-attachments/assets/f6d5d663-389e-4fe0-bc86-f196965c2b68" alt="image" width="300" />
 
 * * *
 
@@ -33,7 +32,5 @@ A showcase of my general information technology projects:
 <a href="mailto:melvin.estrada@tutamail.com">
     <img src="https://www.freepnglogos.com/uploads/email-logo-png-30.png" alt="Email Icon" style="width: 35px; height: auto;">
 </a>
-
-<img src="https://github.com/user-attachments/assets/cf5fa6cd-2711-47ed-b92a-1f21d0d6323a" alt="Heart" width="50" height="50"> <img src="https://freepngimg.com/save/36734-pink-heart-transparent-background/600x557" alt="Heart" width="50" height="50">
 
 > "Your only limitations are in your imagination."
