@@ -20,11 +20,45 @@ Feel free to replicate this enviroment.
   - SCP
   - Password Cracking
 
-## Screenshots
-![Screenshot](url_to_screenshot)
-
-## Code Snippet
-```python
-# Example code
-print("Hello, World!")
+```
+```
+Topology Diagram
+   +---------------------+
+   |    Red Team Server  |
+   |   (Wordlist & SSH)  |
+   |                     |
+   |  +---------------+  |
+   |  |  wordlist.txt |  |
+   |  +---------------+  |
+   |         |           |
+   |         |           |
+   |  +----------------+ |
+   | |extracted_flag.txt |
+   |  +----------------+ |
+   +---------------------+
+             ^
+             |
+             |
+             |
+   +---------------------+
+   | Victim  SSH Server  |
+   |                     |
+   |   +--------------+  |       +-----------------------+
+   |   |  flag.txt   |   | ---- | Blue Team Investigators |
+   |   +--------------+  |      | (Who we are hiding from)|
+   |                     |      |                         |
+   +---------------------+       +-----------------------+
+             ^  
+             |
+             |
+             |
+   +---------------------+
+   |   Red Teamer's PC   |
+   |                     |
+   |   (SSH Client)     |
+   |                     |
+   |   +--------------+  |
+   |   |  Commands    |  |
+   |   +--------------+  |
+   +---------------------+
 ```
